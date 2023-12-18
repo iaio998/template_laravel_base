@@ -67,4 +67,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin put_your_url
 git push -u origin main
+
+#creata nuova repo ed importato il file di lavoro con template
+
+composer install
+
+#duplico file .env.example e lo rinomino in .env
+
+php artisan key:generate
+
+npm install
 ```
