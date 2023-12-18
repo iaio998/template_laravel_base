@@ -60,4 +60,11 @@ $fa-font-path: "../webfonts" !default;
 #estendo la app.blade in home.blade
 
 #verificare se la route ha i nomi corretti
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin put_your_url
+git push -u origin main
 ```
