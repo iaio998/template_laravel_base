@@ -106,4 +106,7 @@ php artisan make:model Nome
 
 # creo le views relative
 
+#creo form request per validazione
+php artisan make:request StoreNomeModelRequest
+
 ```
